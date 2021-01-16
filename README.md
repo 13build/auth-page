@@ -1,12 +1,12 @@
 # auth-page
 
 
-#page
+# page
 - Login 
 - Register
 
 
-#Build With
+# Build With
 - Bootstrap
 - CSS
 - JS

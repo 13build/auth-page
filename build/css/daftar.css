@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800;900&display=swap');
+
+body{
+	background-color: #f2f2f2;
+	font-family: nunito;
+}
+
+label{
+	font-weight: 700;
+}
+
+/*---------------------------
+	Text Style
+-----------------------------*/
+.title{
+	font-weight: 600;
+	font-size: 1.2rem}
+
+h6{
+	
+	width: 60%;
+	text-align: center;
+	border-bottom: .1em solid gray;
+	line-height: 0.1em;
+	margin: 1.5rem auto 1.5rem;
+}
+
+h6 span{
+	background: #fff;
+	padding: 0 .8rem;
+}
+
+/*---------------------------
+	Card Style
+-----------------------------*/
+.card{
+	border-top: .2rem solid #6777ef;
+}
+
+/*---------------------------
+	Button Style
+-----------------------------*/
+.btn-signup{
+	color: #fff;
+	background-color: #6777ef;
+	border-radius: .6rem;
+}
+
+.btn-signup:hover{
+	color: #fff;
+	font-weight: 700;
+}
+
+.btn-google{
+	border: 1px solid #000;
+	border-radius: .6rem;
+}
+
+.btn-google:hover{
+	font-weight: 700;
+}
+
+.btn-google:focus{
+	box-shadow: none;
+}
+
+a,
+a:hover,
+a:focus{
+	color: inherit;
+	transition: all 0.3s;
+}
+
+-------------
+
